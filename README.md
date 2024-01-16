@@ -1,8 +1,7 @@
-# Candidate voting system
-Java spring developer assignment
+
 
 # Candidate Voting System
-
+Java spring developer assignment
 This is a simple REST API for managing candidate votes.
 
 ## Requirements
